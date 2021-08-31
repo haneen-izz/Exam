@@ -1,0 +1,18 @@
+body{
+background-image: url(https://i.ibb.co/TvjC7Wq/background.jpg);
+font-family: 'Fredoka One', cursive;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#logo{
+position: relative;
+left: 100px;
+
+}
+header{
+padding: 5px;
+    text-align: center;
+    background: grey;
+    color:red;
+    font-size: 30px;
+  }
